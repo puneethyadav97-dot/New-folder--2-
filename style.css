@@ -1,0 +1,58 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: rgb(64, 16, 185);
+    color: white;
+}
+
+body {
+    min-height: 50vh;
+    background-image: url("https://th.bing.com/th/id/OIP.Ycjc37G2OOMNHDxCUp5RXgHaFj?w=202&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    color:pink;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+input {
+    padding: 14px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    padding: 12px 30px;
+    background: pink;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#par {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    margin-top: 20px;
+}
